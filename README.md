@@ -5,5 +5,5 @@ This is the Next.js with Contentful Project.
 To use the project, run the following in a terminal:
 
 ```bash
-npx run dev
+npm run dev
 ```
